@@ -5,7 +5,7 @@ class Book
   def title
   end
   
-  def author_name
+  def author
   end
   
   def page_count
