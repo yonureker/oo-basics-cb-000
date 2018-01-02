@@ -1,2 +1,3 @@
-class Book("And Then There Were None")
+class Book
+  def initialize
 end
